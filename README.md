@@ -49,3 +49,4 @@
 ![로또 번호 추출기(challenge)_2](https://user-images.githubusercontent.com/83402978/160804129-84c59639-c3fc-4ed6-b0b6-46bd487f602b.png)
 
 
+
