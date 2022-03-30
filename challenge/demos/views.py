@@ -14,7 +14,9 @@ def lotto_result(request):
 
     lotto_number = list()
     # 게임 수 받기
+
     game = int(request.GET.get('game'))
+
     # 1~45 숫자 배열
     pull_number = list(index for index in range(1, 45))
 
